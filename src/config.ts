@@ -15,24 +15,24 @@ export const config = {
         description: "Full-stack builder creating digital experiences that respect humans and scale with clarity. Accessibility is my north star. I specialize in building modern web applications with React, Node.js, and cutting-edge technologies."
     },
     experiences: [
-        {
-            position: "Frontend Developer",
-            company: "SelectSkillSet",
-            period: "2024 - Present",
-            location: "Remote",
-            description: "Developing modern, responsive frontend applications with focus on user experience and performance. Working with cutting-edge technologies to build scalable web solutions.",
-            responsibilities: [
-                "Building responsive and interactive user interfaces using React and Next.js",
-                "Implementing modern UI/UX designs with TailwindCSS and Framer Motion",
-                "Optimizing application performance and ensuring cross-browser compatibility",
-                "Collaborating with design and backend teams to deliver high-quality features"
-            ],
-            technologies: ["React", "Next.js", "TailwindCSS", "JavaScript", "Framer Motion", "TypeScript"]
-        },
+        // {
+        //     position: "Frontend Developer",
+        //     company: "SelectSkillSet",
+        //     period: "2024 - Present",
+        //     location: "Remote",
+        //     description: "Developing modern, responsive frontend applications with focus on user experience and performance. Working with cutting-edge technologies to build scalable web solutions.",
+        //     responsibilities: [
+        //         "Building responsive and interactive user interfaces using React and Next.js",
+        //         "Implementing modern UI/UX designs with TailwindCSS and Framer Motion",
+        //         "Optimizing application performance and ensuring cross-browser compatibility",
+        //         "Collaborating with design and backend teams to deliver high-quality features"
+        //     ],
+        //     technologies: ["React", "Next.js", "TailwindCSS", "JavaScript", "Framer Motion", "TypeScript"]
+        // },
         {
             position: "Full Stack Developer",
-            company: "Tekisky",
-            period: "2023 - 2024",
+            company: "Incubr",
+            period: "2025 - Present",
             location: "Remote",
             description: "Developed and maintained full-stack web applications, working on both frontend and backend systems. Collaborated with cross-functional teams to deliver robust software solutions.",
             responsibilities: [
